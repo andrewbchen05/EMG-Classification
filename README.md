@@ -1,1 +1,1 @@
-EMG-Classification Project
+# EMG-Classification Project
